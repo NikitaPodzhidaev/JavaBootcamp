@@ -1,7 +1,7 @@
     package project_01;
     import java.util.Scanner;
     import java.util.Locale;
-    public class main {
+    public class task1 {
         public static void main(String[] args) {
             Scanner scan = new Scanner(System.in);
             while(true){
